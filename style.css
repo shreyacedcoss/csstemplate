@@ -1,0 +1,102 @@
+h1{
+    background-color: rgb(221, 211, 211);
+    margin: 20px 20px 0px 20px;
+    padding: 20px 20px 0px 20px;
+
+}
+ul{
+    
+    text-decoration-color: white;
+    list-style-type: none;
+    display: flex;
+    background-color: black;
+    margin: 0px 20px 10px 20px ;
+    padding: 5px;
+}
+a{
+    color: white;
+
+}
+a:hover{
+    background-color: green;
+}
+li{
+    text-decoration: none;
+    margin: 5px;
+    padding-right: 10px red;
+    border-left: 2px white;
+    border-right: solid white;
+}
+h2{
+    color: blue;
+    margin: 0px 20px 0px 40px;
+    padding: 0% 20px 0px 2opx;
+    margin-top: 0px;
+    padding-top: 0px ;
+    
+    
+}
+#para1{
+    margin: 0px 40px;
+}
+#para2{
+    margin: 0px 40px;
+}
+#para3{
+    margin: 0px 40px;
+    text-align: start;
+
+}
+#para4{
+    margin: 0px 40px;
+    
+}
+h3{
+    color: blue;
+    margin: 0px 20px 0px 40px;
+    padding: 0% 20px 0px 2opx;
+    margin-top: 0px;
+    padding-top: 0px ;
+}
+.class01{
+    float: left;
+    width: 50%;
+    
+}
+.class02{
+    float: left;
+    width: 48%;
+    background-color: rgb(214, 211, 211) ;
+    padding-bottom: 70vh;
+    margin-top: -28px;
+    padding-top: 25px;
+    /* margin-right: 10px; */
+}
+.footer{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 95%;
+    background-color: rgb(221, 212, 212);
+    color: rgb(19, 16, 16);
+    text-align: right;
+}
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+
+    
+
+
+    
+
+    
+
