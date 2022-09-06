@@ -1,7 +1,7 @@
 h1{
     background-color: rgb(221, 211, 211);
     margin: 20px 20px 0px 20px;
-    padding: 20px 20px 0px 20px;
+    padding: 20px 20px 20px 20px;
 
 }
 ul{
@@ -9,12 +9,21 @@ ul{
     text-decoration-color: white;
     list-style-type: none;
     display: flex;
+    
     background-color: black;
     margin: 0px 20px 10px 20px ;
     padding: 5px;
 }
 a{
     color: white;
+    text-decoration: none;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    
 
 }
 a:hover{
@@ -57,6 +66,12 @@ h3{
     padding: 0% 20px 0px 2opx;
     margin-top: 0px;
     padding-top: 0px ;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 37px;
+    padding-right: 9px;
 }
 .class01{
     float: left;
